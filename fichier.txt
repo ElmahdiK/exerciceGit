@@ -1,1 +1,7 @@
 Hello World !
+
+git add .
+git commit -m "modification du fichier.txt"
+git push
+
+git login --oneline
